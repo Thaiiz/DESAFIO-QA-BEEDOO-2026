@@ -32,7 +32,7 @@ A partir dessa análise exploratória, foi possível identificar os principais p
 
 Durante a análise da aplicação, foram considerados os seguintes aspectos:
 
-### 1. Fluxo principal (Happy Path)
+### 1. Fluxo principal
 
 Foi analisado o comportamento esperado quando o usuário realiza um cadastro de curso corretamente.
 
